@@ -1,0 +1,13 @@
+{
+  "profileTitle": "Curriculum Vitae",
+  "name": "Amirhossein Aarabi",
+  "job": "Product & Print Designer",
+  "location": "Tehran, Iran",
+  "summary": "HTTP fetching at runtime, ideal for development. Can also be used in production to reduce app size Font file caching, on device file systemFont bundling in assets. Matching font files found in assets are prioritized over HTTP fetching. Useful for offline-first apps.",
+  "skills": "Skills",
+  "info": "Personal Information",
+  "label": "Save",
+  "selectedLang": "Selected Language",
+  "enLang": "English",
+  "faLang": "Persian"
+}
